@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CuoreUI.Winforms/2026.4.25": {
+        "runtime": {
+          "lib/net8.0/CuoreUI.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SharpCompress/0.47.4": {
+        "runtime": {
+          "lib/net10.0/SharpCompress.dll": {
+            "assemblyVersion": "0.47.4.0",
+            "fileVersion": "0.47.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CuoreUI.Winforms/2026.4.25": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gqYYFiN8MKrHF0AwcHanNFOQr2W0G8apDkpHVsWLDHJYIVDO7Icb9t1N2cqW/PVz93MkQho0CGeU5KywzTIwOA==",
+      "path": "cuoreui.winforms/2026.4.25",
+      "hashPath": "cuoreui.winforms.2026.4.25.nupkg.sha512"
+    },
+    "SharpCompress/0.47.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0s2rmGFLFQED6ERPUtJiT/KoDsrBzsc+qDoVX1XT4HfAiLZCtV6Z9mHfArBgHVpDErl4Pt9M5VTMVQLPUJw5Kg==",
+      "path": "sharpcompress/0.47.4",
+      "hashPath": "sharpcompress.0.47.4.nupkg.sha512"
+    }
+  }
+}

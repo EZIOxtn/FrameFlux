@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JH9+C54qp8Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\E Z I O\\source\\repos\\FrameFlux\\FrameFlux\\FrameFlux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E Z I O\\.nuget\\packages\\cuoreui.winforms\\2026.4.25\\cuoreui.winforms.2026.4.25.nupkg.sha512",
+    "C:\\Users\\E Z I O\\.nuget\\packages\\sharpcompress\\0.47.4\\sharpcompress.0.47.4.nupkg.sha512"
+  ],
+  "logs": []
+}
