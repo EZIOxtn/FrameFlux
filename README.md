@@ -68,8 +68,26 @@ ffmpeg -i input.mp4 -vf "minterpolate=fps=60:mi_mode=mci:mc_mode=aobmc:me_mode=b
 
 
 
+
+
+
+
+
 ## ⚠️ Notes:
 
 Processing speed depends heavily on CPU/GPU
 First run may download FFmpeg automatically
 Large videos may take significant time due to interpolation
+
+
+
+###
+
+
+###
+
+
+
+## Screen shots
+<img width="1179" height="579" alt="image" src="https://github.com/user-attachments/assets/8ecb383a-049c-4fe7-9bfb-40e4b775e220" />
+
